@@ -12,9 +12,10 @@ Me encuentro en proceso de formación en desarrollo de software, con interés en
 
 ## Tecnologías
 
-- HTML
-- CSS
 - JavaScript
+- Java
+- React
+- Node.js
 - Git y GitHub
 
 
@@ -26,7 +27,7 @@ Algunos de los trabajos que he desarrollado:
 - Curso interactivo de Excel para principiantes  
   Desarrollo de una experiencia guiada con contenido estructurado y preguntas prácticas para facilitar el aprendizaje desde cero.
 
-- Interfaces web interactivas  
+- Interfaz web interactiva para restaurante de comida rapida
   Creación de páginas con enfoque en diseño limpio, estructura clara y buena experiencia de usuario.
 
 - Ejercicios de lógica y resolución de problemas  
@@ -43,6 +44,7 @@ Seguir desarrollando habilidades en programación, fortaleciendo la lógica, la 
 ## Estadísticas
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jesuscastilla-cloud&theme=tokyonight)](https://git.io/streak-stats)
+
 
 
 ## Contacto
